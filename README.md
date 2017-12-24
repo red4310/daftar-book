@@ -16,4 +16,6 @@ testing perdana menggunakan git
 ## menggunakan GIT dengan Pycharm
 - Buka Project yang sudah di Clone di Command Pront
 - Merubah File
-- Mengirim File Ke Github 
+- Mengirim File Ke Github
+- Merubah di Github
+- Meng-pull dari Lokal
