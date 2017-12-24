@@ -1,4 +1,4 @@
-# daftar-book
+# daftar-book / Buku
 testing perdana menggunakan git
 
 ## Menggunakan GIT dengan Comand Line
