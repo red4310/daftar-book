@@ -11,3 +11,9 @@ testing perdana menggunakan git
 - Tambahkan ke daftar yang diubah dengan git add
 - simpan Perubahan dengan git Commit
 - Kirim Perubahan dengan git push
+
+
+## menggunakan GIT dengan Pycharm
+- Buka Project yang sudah di Clone di Command Pront
+- Merubah File
+- Mengirim File Ke Github 
