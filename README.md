@@ -17,5 +17,14 @@ testing perdana menggunakan git
 - Buka Project yang sudah di Clone di Command Pront
 - Merubah File
 - Mengirim File Ke Github
+- Mengirim File Ke Github
 - Merubah di Github
 - Meng-pull dari Lokal
+
+## Menggunakan GIT di Team 
+- Mulai bekerja dengan melihat issue Tracker
+- Bekerja tidak pada Master, Namun pada branch tersendiri
+- Mempush kode pada branch tersebut(atau mem-push jika sudah ada Commit )
+- Merubah Kode pada branch tersebut
+- Meng-commit kode
+- Mem-Push branch tersebut
