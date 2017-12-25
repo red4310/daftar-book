@@ -26,5 +26,5 @@ testing perdana menggunakan git
 - Bekerja tidak pada Master, Namun pada branch tersendiri
 - Mempush kode pada branch tersebut(atau mem-push jika sudah ada Commit )
 - Merubah Kode pada branch tersebut
-- Meng-commit kode
+- Meng-commit kode , dan mereview Perubahan pada file terlebih dahulu  
 - Mem-Push branch tersebut
